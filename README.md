@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Krish - Java Full Stack Learner 
-- 🎯 My Goal: Land a ₹25k+ internship by building real-world projects within the next 60 days!
 - 🌱 I'm currently learning Full Stack Development with **Java, Spring Boot, React, and MySQL**
 ## 📚 What I'm Learning Right Now
 - 🔸 Java OOPs, JDBC
