@@ -1,22 +1,25 @@
-- 👋 Hi, I’m Krish - Java Full Stack Learner 
-- 🌱 I'm currently learning Full Stack Development with **Java, Spring Boot, React, and MySQL**
+- 👋 Hi, I’m Krish - Aspiring Full Stack Learner 
+- 🌱 Aspiring Full Stack Developer | Learning in Public
 ## 📚 What I'm Learning Right Now
-- 🔸 Java OOPs, JDBC
-- 🔸 Spring Boot (REST APIs)
-- 🔸 MySQL (Database integration)
-- 🔸 React (Frontend UI building)
-- 🔸 Git & GitHub for version control
+ 🎓 I'm currently a student, learning **Full Stack Development**
+- 📚 My current focus: **HTML, CSS, JavaScript, React, Node.js, MongoDB**
+- 📌 Planning to start applying for internships after **3rd Semester**
+- 💡 I'm building projects as I learn and sharing them here on GitHub
+- ⚡ Goal: Become industry-ready with real projects and problem-solving skills
+### 🛠️ Current Tech Stack (Learning & Practicing)
+- 💻 Frontend: HTML, CSS, JavaScript, React
+- 🛠️ Backend: Node.js, Express.js
+- 🗄️ Database: MongoDB
+- 🔧 Tools: Git, GitHub, VS Code, Postman
 
----
+### 🚧 Ongoing Projects
 
-## 🛠️ Ongoing Projects
-| Project                     | Description                                   | Status     |
-|----------------------------|-----------------------------------------------|------------|
-| **To-Do App (Java + MySQL)** | CLI app using JDBC for CRUD operations       | Coming Soon |
-| **Blog API (Spring Boot)**  | REST API with Postman testing                 | Coming Soon |
-| **E-commerce UI (React)**   | Product listing + Cart page                   | Coming Soon |
-
----
+| Project Name     | Description                                 | Tech Used                    |
+|------------------|---------------------------------------------|------------------------------|
+| HTML-CSS Practice | Layouts, forms, components                 | HTML, CSS                    |
+| JavaScript Apps  | Mini-projects (To-Do, Calculator, etc.)     | JavaScript, DOM              |
+| React Practice   | Components, state, routing                  | React JS                     |
+| Blog App         | Full stack app with auth and CRUD features  | MERN (React, Node, MongoDB)  |
 
 ## 📈 My GitHub Journey
 I'll be uploading new code & projects **almost daily** as I learn and build.
