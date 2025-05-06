@@ -1,3 +1,4 @@
+**Krish Goel**
 - 👋 Hi, I’m Krish - Aspiring Full Stack Learner 
 - 🌱 Aspiring Full Stack Developer | Learning in Public
 ## 📚 What I'm Learning Right Now
