@@ -21,6 +21,8 @@
 | JavaScript Apps  | Mini-projects (To-Do, Calculator, etc.)     | JavaScript, DOM              |
 | React Practice   | Components, state, routing                  | React JS                     |
 | Blog App         | Full stack app with auth and CRUD features  | MERN (React, Node, MongoDB)  |
+## 📘 Learning Journey (40-Day Full Stack Challenge)
+: Learned HTML basics and created a simple static website. Understood how HTML, CSS, and JavaScript work together. [🔗 View Project](https://github.com/your-krishgoel2146/html-basics)
 
 ## 📈 My GitHub Journey
 I'll be uploading new code & projects **almost daily** as I learn and build.
