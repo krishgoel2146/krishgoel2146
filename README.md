@@ -22,8 +22,9 @@
 | React Practice   | Components, state, routing                  | React JS                     |
 | Blog App         | Full stack app with auth and CRUD features  | MERN (React, Node, MongoDB)  |
 ## 📘 Learning Journey 
-: Learned HTML basics and created a simple static website. Understood how HTML, CSS, and JavaScript work together. [🔗 View Project](https://github.com/your-krishgoel2146/html-basics)
-: Learned HTML basics and created a basic website. understood how headings,link and paragraph used in html.[🔗View Project](https://github.com/your-krishgoel2146/html-basic-website)
+> Learned HTML basics and created a simple static website. Understood how HTML, CSS, and JavaScript work together. [🔗 View Project](https://github.com/your-krishgoel2146/html-basics)
+>Learned HTML basics and created a basic website. understood how headings,link and paragraph used in html.[🔗View Project](https://github.com/your-krishgoel2146/html-basic-website)
+>Learned HTML basics and created a basic website. Understood how tables , lists and images used in html.[🔗View Project](https://github.com/your-krishgoel2146/html-images)
 ## 📈 My GitHub Journey
 I'll be uploading new code & projects **almost daily** as I learn and build.
 📌 Check pinned repositories to see my latest work!
