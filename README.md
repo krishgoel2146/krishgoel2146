@@ -4,7 +4,6 @@
 ## 📚 What I'm Learning Right Now
  🎓 I'm currently a student, learning **Full Stack Development**
 - 📚 My current focus: **HTML, CSS, JavaScript, React, Node.js, MongoDB**
-- 📌 Planning to start applying for internships after **4th Semester**
 - 💡 I'm building projects as I learn and sharing them here on GitHub
 - ⚡ Goal: Become industry-ready with real projects and problem-solving skills
 ### 🛠️ Current Tech Stack (Learning & Practicing)
